@@ -8,9 +8,9 @@ export default {
     extend: {
       fontFamily: {
         poppins: ['"Poppins"', 'sans-serif'],
+        montserrat: ['"Montserrat Alternates"', '"Montserrat"', 'sans-serif'],
       }
     },
   },
   plugins: [],
 }
-
