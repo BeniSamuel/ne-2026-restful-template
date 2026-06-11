@@ -1,0 +1,12 @@
+
+> inspection-service@0.0.1 start:dev
+> nest start --watch
+
+[2J[3J[H[[90m1:43:45 PM[0m] Starting compilation in watch mode...
+
+[[90m1:45:08 PM[0m] Found 0 errors. Watching for file changes.
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[32m[Nest] 8780  - [39m06/03/2026, 1:48:31 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 8780  - [39m06/03/2026, 1:48:34 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +3202ms[39m
+[32m[Nest] 8780  - [39m06/03/2026, 1:48:35 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +126ms[39m

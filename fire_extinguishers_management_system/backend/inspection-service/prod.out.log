@@ -1,0 +1,9 @@
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:19 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:19 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +141ms[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:19 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +174ms[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:25 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +6248ms[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:25 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +2ms[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:25 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mInspectionModule dependencies initialized[39m[38;5;3m +9ms[39m
+[32m[Nest] 16112  - [39m06/03/2026, 1:49:25 PM [32m    LOG[39m [38;5;3m[NestMicroservice] [39m[32mNest microservice successfully started[39m[38;5;3m +140ms[39m
+Inspection service running on port 3004

@@ -1,0 +1,6 @@
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[32m[Nest] 7940  - [39m06/03/2026, 1:49:22 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 7940  - [39m06/03/2026, 1:49:22 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mClientsModule dependencies initialized[39m[38;5;3m +111ms[39m
+[32m[Nest] 7940  - [39m06/03/2026, 1:49:22 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +57ms[39m
+[32m[Nest] 7940  - [39m06/03/2026, 1:49:22 PM [32m    LOG[39m [38;5;3m[NestMicroservice] [39m[32mNest microservice successfully started[39m[38;5;3m +52ms[39m
+Reporting service running on port 3006

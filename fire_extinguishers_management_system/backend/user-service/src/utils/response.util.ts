@@ -1,0 +1,31 @@
+import { HttpStatus } from '@nestjs/common';
+
+export class ApiResponse<T> {
+  success: boolean;
+  message: string;
+  data: T;
+  status: HttpStatus;
+
+  constructor(success: boolean, message: string, data: T, status: HttpStatus) {
+    this.success = success;
+    this.message = message;
+    this.data = data;
+    this.status = status;
+  }
+
+  static ok<T>(message: string, data: T): ApiResponse<T> {
+    return new ApiResponse(true, message, data, HttpStatus.OK);
+  }
+
+  static notFound<T>(message: string, data: T): ApiResponse<T> {
+    return new ApiResponse(false, message, data, HttpStatus.NOT_FOUND);
+  }
+
+  static badRequest<T>(message: string, data: T): ApiResponse<T> {
+    return new ApiResponse(false, message, data, HttpStatus.BAD_REQUEST);
+  }
+
+  static created<T>(message: string, data: T): ApiResponse<T> {
+    return new ApiResponse(true, message, data, HttpStatus.CREATED);
+  }
+}

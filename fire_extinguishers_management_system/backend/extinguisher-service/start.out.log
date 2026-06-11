@@ -1,0 +1,9 @@
+
+> extinguisher-service@0.0.1 start:dev
+> nest start --watch
+
+[2J[3J[H[[90m1:43:57 PM[0m] Starting compilation in watch mode...
+
+[[90m1:46:37 PM[0m] Found 0 errors. Watching for file changes.
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
